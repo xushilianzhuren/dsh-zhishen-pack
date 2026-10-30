@@ -1,0 +1,99 @@
+[
+  {
+    "id": "zhishen-full",
+    "kind": "loose-pack",
+    "entries": [
+      {
+        "id": "xushilianzhuren/dsh-constitution-seed",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-memgate",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-ledger-gauge",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-frame-kit",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-verify-kit",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-task-order",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-translate-kit",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-notify-relay",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-daily-brief",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-bili2text",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-first-principles",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-chat-export",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-rea-kit",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-xianyu-kit",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-winreset-kit",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-frame-scan",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-bili-upload-kit",
+        "type": "cordis-plugin",
+        "version": "latest"
+      }
+    ],
+    "tags": [
+      "dsh",
+      "整合包",
+      "全家桶",
+      "dsh-plugin"
+    ]
+  }
+]

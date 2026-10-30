@@ -1,0 +1,7 @@
+# 智神实用全家桶 · 15插件一键清单
+# 用法: 把本清单内容并入你的 dsh profile 配置，或逐个 dsh plugin add github:xushilianzhuren/<名>
+# 场景①自媒体: bili2text / frame-scan / chat-export / bili-upload-kit
+# 场景②审计: verify-kit / task-order / ledger-gauge
+# 场景③日常: constitution-seed / memgate / daily-brief / translate-kit / frame-kit / notify-relay
+# 场景④进阶: rea-kit / xianyu-kit / winreset-kit / first-principles
+[]
