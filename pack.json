@@ -97,6 +97,11 @@
         "id": "xushilianzhuren/dsh-learn-core",
         "type": "cordis-plugin",
         "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-goal-core",
+        "type": "cordis-plugin",
+        "version": "latest"
       }
     ],
     "tags": [
