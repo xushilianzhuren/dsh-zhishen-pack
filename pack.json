@@ -112,6 +112,11 @@
         "id": "xushilianzhuren/dsh-anti-degrade-core",
         "type": "cordis-plugin",
         "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-update-guard",
+        "type": "cordis-plugin",
+        "version": "latest"
       }
     ],
     "tags": [
