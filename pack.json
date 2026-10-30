@@ -87,6 +87,16 @@
         "id": "xushilianzhuren/dsh-bili-upload-kit",
         "type": "cordis-plugin",
         "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-mind-core",
+        "type": "cordis-plugin",
+        "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-learn-core",
+        "type": "cordis-plugin",
+        "version": "latest"
       }
     ],
     "tags": [
