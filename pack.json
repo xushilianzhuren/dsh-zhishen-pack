@@ -102,6 +102,11 @@
         "id": "xushilianzhuren/dsh-goal-core",
         "type": "cordis-plugin",
         "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-constitution-viz",
+        "type": "cordis-plugin",
+        "version": "latest"
       }
     ],
     "tags": [
