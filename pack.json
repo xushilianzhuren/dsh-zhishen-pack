@@ -122,6 +122,11 @@
         "id": "xushilianzhuren/dsh-eye-extract",
         "type": "cordis-plugin",
         "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-image-sovereign",
+        "type": "cordis-plugin",
+        "version": "latest"
       }
     ],
     "tags": [

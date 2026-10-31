@@ -1,6 +1,6 @@
 # dsh-zhishen-pack · 智神实用全家桶
 
-23 practical DSH plugins in one bundle — 自媒体 / 审计 / 日常 / 进阶 four scenes.
+25 practical DSH plugins in one bundle — 自媒体 / 审计 / 日常 / 进阶 four scenes.
 
 ## 含什么
 | 场景 | 插件 |
