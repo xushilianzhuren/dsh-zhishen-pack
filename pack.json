@@ -147,6 +147,11 @@
         "id": "xushilianzhuren/dsh-xianyu-flow",
         "type": "cordis-plugin",
         "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-self-audit",
+        "type": "cordis-plugin",
+        "version": "latest"
       }
     ],
     "tags": [
