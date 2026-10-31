@@ -127,6 +127,11 @@
         "id": "xushilianzhuren/dsh-image-sovereign",
         "type": "cordis-plugin",
         "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-legion-pack",
+        "type": "cordis-plugin",
+        "version": "latest"
       }
     ],
     "tags": [

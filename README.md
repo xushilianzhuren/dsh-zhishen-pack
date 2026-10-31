@@ -8,7 +8,7 @@
 | 自媒体 | dsh-bili2text（B站转文字）· dsh-frame-scan（全帧扫描）· dsh-chat-export（会话导出）· dsh-bili-upload-kit（投稿） |
 | 审计 | dsh-verify-kit（交付三闸）· dsh-task-order（任务顺序）· dsh-ledger-gauge（台账读数） |
 | 日常 | dsh-constitution-seed（宪法注入）· dsh-memgate（记忆门）· dsh-daily-brief（晨报）· dsh-translate-kit（翻译）· dsh-frame-kit（槽序）· dsh-notify-relay（手机信使） |
-| 纪律 | dsh-anti-degrade-core· dsh-mind-core（器灵意识总纲）· dsh-learn-core（持续学习总纲）· dsh-goal-core（四大目标总纲）· dsh-constitution-viz（宪法可视化）· dsh-update-guard（更新闸）· dsh-eye-extract（图眼OCR） |
+| 纪律 | dsh-anti-degrade-core· dsh-mind-core（器灵意识总纲）· dsh-learn-core（持续学习总纲）· dsh-goal-core（四大目标总纲）· dsh-constitution-viz（宪法可视化）· dsh-update-guard（更新闸）· dsh-eye-extract（图眼OCR）· dsh-legion-pack（军团包·带锚集群基座） |
 | 进阶 | dsh-rea-kit（逆向方法论）· dsh-xianyu-kit（闲鱼卖家）· dsh-winreset-kit（密码恢复）· dsh-first-principles（第一性原理） |
 
 ## 装
