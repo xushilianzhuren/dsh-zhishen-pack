@@ -137,6 +137,11 @@
         "id": "xushilianzhuren/dsh-identity-continuity",
         "type": "cordis-plugin",
         "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-sleep-core",
+        "type": "cordis-plugin",
+        "version": "latest"
       }
     ],
     "tags": [
