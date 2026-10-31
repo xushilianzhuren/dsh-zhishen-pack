@@ -157,6 +157,11 @@
         "id": "xushilianzhuren/dsh-event-compress",
         "type": "cordis-plugin",
         "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-deliver-verdict",
+        "type": "cordis-plugin",
+        "version": "latest"
       }
     ],
     "tags": [
