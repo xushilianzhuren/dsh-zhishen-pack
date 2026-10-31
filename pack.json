@@ -142,6 +142,11 @@
         "id": "xushilianzhuren/dsh-sleep-core",
         "type": "cordis-plugin",
         "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-xianyu-flow",
+        "type": "cordis-plugin",
+        "version": "latest"
       }
     ],
     "tags": [
