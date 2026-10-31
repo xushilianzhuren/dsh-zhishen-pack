@@ -152,6 +152,11 @@
         "id": "xushilianzhuren/dsh-self-audit",
         "type": "cordis-plugin",
         "version": "latest"
+      },
+      {
+        "id": "xushilianzhuren/dsh-event-compress",
+        "type": "cordis-plugin",
+        "version": "latest"
       }
     ],
     "tags": [
